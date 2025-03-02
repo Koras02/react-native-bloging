@@ -39,3 +39,40 @@ npx react-native run-ios
 ```bash
   npm install @react-navigation/native
 ```
+
+## 6. API 연동
+
+- Fetch API 사용법
+- Axios 설치:
+
+```bash
+npm install axios
+```
+
+## 7. 상태 관리 라이브러리
+
+- Redux 설치:
+
+```bash
+npm install redux react-redux
+```
+
+## 8. 디버깅 및 테스트
+
+- React Developer Tools 사용
+- Jest 설치 및 테스트 작성
+
+## 9. 배포
+
+- Android: APK 파일 생성
+- iOS: App Store 배포 방법
+
+## 10. 추가 학습
+
+- Typescript 사용법
+- Native Modules 활용
+
+## 11. 커뮤니티 및 자료
+
+- React Native 공식 문서
+- 커뮤니티 참여 (Stack Overflow, Reddit 등)
